@@ -1,0 +1,15 @@
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\bin\Debug\net7.0\for loop.exe
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\bin\Debug\net7.0\for loop.deps.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\bin\Debug\net7.0\for loop.runtimeconfig.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\bin\Debug\net7.0\for loop.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\bin\Debug\net7.0\for loop.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.csproj.AssemblyReference.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.AssemblyInfoInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.AssemblyInfo.cs
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.csproj.CoreCompileInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\refint\for loop.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\for loop.genruntimeconfig.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\for loop\obj\Debug\net7.0\ref\for loop.dll
